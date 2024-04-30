@@ -6,7 +6,7 @@ if (isset($_SESSION['user'])) {
 	die();
 }
  ?>
-<!-- --------------------------------------- DELETE TASK MODAL ------------------------------------------------------ -->
+<!-- --------------------------------------- DELETE TASK ------------------------------------------------------ -->
 <div id="task-delete-<?php echo $i; ?>" class="col-sm modal fade" role="dialog">
     <div class="modal-dialog">
         <div class="modal-content">
