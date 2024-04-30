@@ -7,7 +7,7 @@ if (isset($_SESSION['user'])) {
 }
 ?>
 
-<!-- --------------------------------------- NEW PROJECT MODAL ------------------------------------------------------ -->
+<!-- --------------------------------------- NEW PROJECT ------------------------------------------------------ -->
 <div id="project-modal" class="modal fade" role="dialog">
     <div class="modal-dialog">
         <div class="modal-content">
