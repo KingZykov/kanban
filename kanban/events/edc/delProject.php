@@ -6,7 +6,7 @@ if (isset($_SESSION['user'])) {
 	die();
 }
  ?>
-<!-- --------------------------------------- DELETE PROJECT MODAL ------------------------------------------------------ -->
+<!-- --------------------------------------- DELETE PROJECT ------------------------------------------------------ -->
 <div id="project-delete-<?php echo $i; ?>" class="col-sm modal fade" role="dialog">
     <div class="modal-dialog">
         <div class="modal-content">
